@@ -65,7 +65,7 @@ If you wish to run this application on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone (https://github.com/ImsMoon/Pdf-Password-Remover.git)
     cd <repository-folder>
     ```
 
